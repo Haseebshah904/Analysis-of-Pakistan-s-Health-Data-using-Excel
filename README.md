@@ -7,18 +7,18 @@ This project analyzes a comprehensive health dataset from various hospitals acro
 
 Rows: 2000 patient records
 Columns: 15 attributes including:
-Hospital Name
-Patient Name
-Age
-Gender
-Admission & Discharge Dates
-Disease Treated
-Treatment Cost (PKR)
-Insurance Coverage Status
-Blood Group
-Height (cm)
-Weight (kg)
-Contact Number
+Hospital Name,
+Patient Name,
+Age,
+Gender,
+Admission & Discharge Dates,
+Disease Treated,
+Treatment Cost (PKR),
+Insurance Coverage Status,
+Blood Group,
+Height (cm),
+Weight (kg),
+Contact Number,
 Patient’s City and Province of Residence
 
 # Objectives of the Project
