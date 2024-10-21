@@ -5,8 +5,8 @@ This project analyzes a comprehensive health dataset from various hospitals acro
 
 # Dataset Description
 
-##. Rows: 2000 patient records 
-Columns: 15 attributes including:
++ Rows: 2000 patient records, 
+Columns: 15 attributes including:,
 Hospital Name,
 Patient Name,
 Age,
